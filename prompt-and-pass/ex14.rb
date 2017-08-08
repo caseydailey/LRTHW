@@ -1,4 +1,4 @@
-user_name = ARGV.first
+st user_name = ARGV.first
 prompt = '> '
 
 puts "Hi #{user_name}."
