@@ -1,6 +1,6 @@
 =begin
     
-here we da few more things with files.
+here we do couple more things with files.
 this is a ruby script to copy one file to another
     
 =end
