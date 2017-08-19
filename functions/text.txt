@@ -1,0 +1,6 @@
+this is a file with some text.
+here's a line.
+here's another line.
+my name is casey.
+portland is pretty cool.
+you chould not eat cardboard.
